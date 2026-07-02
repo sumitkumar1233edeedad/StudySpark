@@ -3,3 +3,4 @@ djangorestframework
 gunicorn
 whitenoise
 Pillow
+django-cors-headers
