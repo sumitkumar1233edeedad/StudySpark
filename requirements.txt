@@ -1,2 +1,5 @@
 Django
 djangorestframework
+gunicorn
+whitenoise
+Pillow
